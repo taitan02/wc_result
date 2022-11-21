@@ -67,14 +67,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500ead5",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "6",
           "finished": "FALSE",
           "group": "B",
-          "homeScore": 3,
+          "homeScore": 5,
           "homeScorers": [
               "null"
           ],
