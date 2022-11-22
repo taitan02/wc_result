@@ -101,14 +101,14 @@
   
       {
           "_id": "629c9c8a5749c4077500ead7",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "8",
           "finished": "FALSE",
           "group": "B",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
