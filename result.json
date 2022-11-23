@@ -233,14 +233,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eadb",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "16",
           "finished": "FALSE",
           "group": "D",
-          "homeScore": 0,
+          "homeScore": 4,
           "homeScorers": [
               "null"
           ],
@@ -299,14 +299,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eadd",
-          "awayScore": 0,
+          "awayScore": 2,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "20",
           "finished": "FALSE",
           "group": "E",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -339,7 +339,7 @@
           "awayTeamId": "22",
           "finished": "FALSE",
           "group": "E",
-          "homeScore": 0,
+          "homeScore": 7,
           "homeScorers": [
               "null"
           ],
