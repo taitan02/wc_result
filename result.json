@@ -372,7 +372,7 @@
           "awayTeamId": "24",
           "finished": "FALSE",
           "group": "F",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -405,7 +405,7 @@
           "awayTeamId": "26",
           "finished": "FALSE",
           "group": "G",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
@@ -431,14 +431,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eae1",
-          "awayScore": 0,
+          "awayScore": 2,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "28",
           "finished": "FALSE",
           "group": "H",
-          "homeScore": 0,
+          "homeScore": 3,
           "homeScorers": [
               "null"
           ],
@@ -504,7 +504,7 @@
           "awayTeamId": "32",
           "finished": "FALSE",
           "group": "G",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -563,14 +563,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eae5",
-          "awayScore": 0,
+          "awayScore": 3,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "3",
           "finished": "FALSE",
           "group": "A",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -596,14 +596,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eae6",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "2",
           "finished": "FALSE",
           "group": "A",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -662,7 +662,7 @@
       },
       {
           "_id": "629c9c8a5749c4077500eae8",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
@@ -702,7 +702,7 @@
           "awayTeamId": "10",
           "finished": "FALSE",
           "group": "C",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
@@ -728,14 +728,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaea",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "11",
           "finished": "FALSE",
           "group": "D",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
@@ -768,7 +768,7 @@
           "awayTeamId": "13",
           "finished": "FALSE",
           "group": "C",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
@@ -794,7 +794,7 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaec",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
@@ -827,7 +827,7 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaed",
-          "awayScore": 0,
+          "awayScore": 2,
           "awayScorers": [
               "null"
           ],
@@ -860,14 +860,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaee",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "24",
           "finished": "FALSE",
           "group": "F",
-          "homeScore": 0,
+          "homeScore": 4,
           "homeScorers": [
               "null"
           ],
@@ -893,14 +893,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaef",
-          "awayScore": 0,
+          "awayScore": 1,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "19",
           "finished": "FALSE",
           "group": "E",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -926,14 +926,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaf0",
-          "awayScore": 0,
+          "awayScore": 3,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "32",
           "finished": "FALSE",
           "group": "G",
-          "homeScore": 0,
+          "homeScore": 3,
           "homeScorers": [
               "null"
           ],
@@ -959,14 +959,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaf1",
-          "awayScore": 0,
+          "awayScore": 3,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "28",
           "finished": "FALSE",
           "group": "H",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
@@ -999,7 +999,7 @@
           "awayTeamId": "31",
           "finished": "FALSE",
           "group": "G",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -1032,7 +1032,7 @@
           "awayTeamId": "29",
           "finished": "FALSE",
           "group": "H",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
@@ -1124,14 +1124,14 @@
       },
       {
           "_id": "629c9c8a5749c4077500eaf6",
-          "awayScore": 0,
+          "awayScore": 2,
           "awayScorers": [
               "null"
           ],
           "awayTeamId": "3",
           "finished": "FALSE",
           "group": "A",
-          "homeScore": 0,
+          "homeScore": 1,
           "homeScorers": [
               "null"
           ],
@@ -1164,7 +1164,7 @@
           "awayTeamId": "1",
           "finished": "FALSE",
           "group": "A",
-          "homeScore": 0,
+          "homeScore": 2,
           "homeScorers": [
               "null"
           ],
